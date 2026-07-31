@@ -20,7 +20,7 @@ The CanSat measures approximately:
 
 The project includes a custom flight computer PCB, a lightweight enclosure, onboard software, a recovery system and a ground station.
 
-The aim of Solis 1 is to create a compact and reliable system that can collect data during a test flight, transmit information back to the ground and safely return for recovery.
+The aim of Solis 1 is to create a compact and system that can collect data during a test flight, transmit information back to the ground and safely return for recovery.
 
 ---
 
@@ -75,7 +75,7 @@ The schematic shows how the components  on the flight computer are connected tog
 
 ## PCB Layout
 
-The PCB layout contains the physical position of each component and the copper tracks connecting them.
+
 
 The board is designed to fit inside the Solis 1 enclosure while leaving enough space for mounting holes, connectors and other internal parts.
 
@@ -91,7 +91,7 @@ I even included some really nice graphics on the back
 
 ## Mechanical Design
 
-The mechanical parts of Solis 1 are being designed in CAD.
+
 
 This includes the outer enclosure, internal mounts, PCB supports and recovery-system parts. The design needs to be compact, lightweight and strong enough to protect the electronics during testing and landing.
 
