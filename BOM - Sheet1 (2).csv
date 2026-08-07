@@ -1,0 +1,10 @@
+Name,Purpose,Qty,Total (USD),Link,Distributor
+PCB,PCB,5,$130.00,JLCPCB,jlcpcb
+Adafruit RFM95W LoRa Radio Transceiver Breakout - 868 or 915 MHz (RadioFruit),LORA,1,$27.00,https://thepihut.com/products/adafruit-rfm95w-lora-radio-transceiver-breakout-868-or-915-mhz,thepihut
+Adafruit BME280 I2C or SPI Temperature Humidity Pressure Sensor (STEMMA QT),environmetnal sensor,1,$20.00,https://thepihut.com/products/adafruit-bme280-i2c-or-spi-temperature-humidity-pressure-sensor?variant=27740035153,thepihut
+MicroSD card breakout board+,SDcard,1,$11.00,https://thepihut.com/products/adafruit-microsd-card-breakout-board?variant=27739995217,thepihut
+Adafruit LSM6DSOX + LIS3MDL - Precision 9 DoF IMU (STEMMA QT / Qwiic,IMU,5,$27.00,https://thepihut.com/products/adafruit-lsm6dsox-lis3mdl-precision-9-dof-imu?variant=31618642182206,thepihut
+2.0mm Pitch 6-pin Cable Matching Pair - JST PH Compatible,wire,2,$3.00,https://thepihut.com/products/2-0mm-pitch-6-pin-cable-matching-pair-jst-ph-compatible?variant=40200490877123,thepihut
+Qwiic/STEMMA QT-Compatible Cable - JST-SH 4-Pin (50mm),wire,6,$10.00,https://thepihut.com/products/stemma-qt-qwiic-jst-sh-4-pin-cable?variant=31257729073214,thepihut
+Shipping,,,$5.50,,
+Total,,,$233.50,,
