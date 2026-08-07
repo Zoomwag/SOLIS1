@@ -89,6 +89,16 @@ I even included some really nice graphics on the back
 
 ---
 
+
+## BOM
+
+
+
+<img width="1696" height="318" alt="image" src="https://github.com/user-attachments/assets/b2768fc9-a27b-4948-a6a4-7e758eb2c108" />
+Here you can see the bom for Solis 1
+
+---
+
 ## Mechanical Design
 
 
