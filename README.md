@@ -118,15 +118,24 @@ This includes the outer enclosure, internal mounts, PCB supports and recovery-sy
 
 
 ---
+#Images
+![image.png](https://cdn.hackclub.com/01a1a2f5-2e71-7317-93f0-82904ce93c9f/image.png)
 
-## Future Plans
+![image.png](https://cdn.hackclub.com/01a1a2f5-4a3c-77a3-9765-fc17735d1350/image.png)
 
-Once the first version of Solis 1 has been assembled, it will go through several stages of testing.
+theses are the pcb boards for solis 1 you can see the mother board and the daughter board. You can also see the very nice silkscreen :)
 
-These will include checking the electronics, testing the software, confirming that the ground station receives data and making sure the enclosure protects the internal components.
+![image.png](https://cdn.hackclub.com/01a1a2f5-6514-7fe0-b0c4-63fc6e84e6fd/image.png)
 
-The results from each test will be used to improve future versions of the CanSat.
+this was when i wired them together
 
+![image.png](https://cdn.hackclub.com/01a1a2f5-8104-771d-a37c-d45ecf3a8262/image.png)
+
+here are the electronics inside of the enclosure
+
+![image.png](https://cdn.hackclub.com/01a1a2f5-97fd-77bd-97c4-ef39a0ba31b0/image.png)
+
+here is everyting wiht the lid on
 ---
 
 
